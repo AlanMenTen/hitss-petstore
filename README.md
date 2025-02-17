@@ -1,2 +1,2 @@
-# hitss-petstore
-Practica
+# Petstore
+Practica 
